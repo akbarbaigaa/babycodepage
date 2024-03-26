@@ -59,7 +59,7 @@ const observer = new IntersectionObserver(entries => {
           <span className="text">Classes</span>
         </div>
         <div className="row-image-text square-wrapper">
-          <img className="img7 square square-animation" src="babycodepage/pictures/snappedPics/BookIELTSExams.png" alt="" />
+          <img className="img7 square square-animation" src="https://github.com/akbarbaigaa/babycodepage/edit/main/pictures/snappedPics/BookIELTSExams.png" alt="" />
           <span className="text">Book IELTS Exam</span>
         </div>
         <div className="row-image-text square-wrapper">
